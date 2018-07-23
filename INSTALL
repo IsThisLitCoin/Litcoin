@@ -1,0 +1,9 @@
+Building Litcoin
+
+See doc/readme-qt.rst for instructions on building Litcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Litcoin.
+
+See doc/build-*.txt for instructions on building litcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Litcoin.
